@@ -78,4 +78,4 @@ http://<YOUR_PUBLIC_IP>:8000/fruits
 
 ## ✅ Done!
 
-Your Fruits API is now ready for development, testing, Dockerization, and CI/CD automation.
+Your Fruits API is now ready for development, testing, Dockerization, and CI/CD automation...
