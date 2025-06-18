@@ -1,5 +1,4 @@
 # 🍎 Fruits API
-
 A simple, beginner-friendly **FastAPI** microservice to manage a list of fruits.
 
 ---
