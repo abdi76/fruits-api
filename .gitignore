@@ -34,8 +34,3 @@ actions-runner/
 
 # Environment variables
 .env
-
-__pycache__/
-*.pyc
-venv/
-*.db
